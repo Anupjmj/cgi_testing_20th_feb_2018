@@ -10,6 +10,21 @@ Sreenivas opened second time this file. This is my first file.
 This is to show how pull can be used to merge the 2 branches
  
 This is my second commit
+
+
+comitting by Jagadish
+
+Again comitting by Jagadish
+
+comitting 3rd time by Jagadish
+
+
+This is to show how pull can be used to merge the 2 branches
+
+This is my second commit
+
+comitting by Jagadish
+
  
 Changes made by anjali
 
@@ -25,3 +40,4 @@ This is GIT training
 
 this is testing
 changes to abc
+
